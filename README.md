@@ -1,5 +1,7 @@
 # Natural Backwalls Everywhere
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/natural-backwalls-everywhere), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod that gives every biome the natural backwall tiles the Aquatic Planet Pack places behind its beach, reef, kelp forest, and abyss. Each biome gets a material chosen from that biome's own solids, and the coverage is adjustable.
 
 Status: **work in progress**; generates on new worlds, defaults still being tuned.
